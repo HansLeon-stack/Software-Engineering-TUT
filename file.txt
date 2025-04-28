@@ -2,3 +2,4 @@ Name : Hans Leonard
 NIM : 2702348184
 Class : LA01
 Gender : Male
+Hobby : Badminton
